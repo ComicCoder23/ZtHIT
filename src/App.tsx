@@ -11,9 +11,11 @@ import { Recovery } from './pages/Recovery'
 import { PackageLibrary } from './pages/PackageLibrary'
 import { Projects } from './pages/Projects'
 
+const basename = import.meta.env.BASE_URL.replace(/\/$/, '') || undefined
+
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<CommandHome />} />
