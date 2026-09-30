@@ -1,0 +1,108 @@
+{
+  "pipelineNote": "JobSync status: ComicCoder23/jobsync-tracker linked for logging \u2014 not a live API yet. Board below uses placeholders until real applications are logged. Never auto-send.",
+  "statuses": [
+    "Draft",
+    "Ready",
+    "Submitted",
+    "Interview",
+    "Offer",
+    "Closed"
+  ],
+  "volumeTarget": "10\u201320+ applications/week when energy allows; 3\u20135 quality today once pack approved",
+  "dailyUpdatesDesign": {
+    "source": "07-DAILY-JOB-UPDATES.md",
+    "running": false,
+    "schema": [
+      "New matches (max 7)",
+      "Actions due today",
+      "Pipeline snapshot",
+      "Blockers",
+      "One sentence for voice"
+    ],
+    "label": "Daily job updates design (not running yet)",
+    "liveBoardLinks": "links.json \u2192 jobBoards + recruiters"
+  },
+  "targeting": {
+    "primaryTitles": [
+      "IT Support / Help Desk / Service Desk Analyst (1st line)",
+      "Desktop Support / Junior IT Support",
+      "Field Support / Break-fix (Windows)",
+      "MSP junior technician (Glasgow / Central Belt)"
+    ],
+    "geography": [
+      "Kirkintilloch / East Dunbartonshire commute",
+      "Glasgow City / hybrid",
+      "Scotland remote / UK remote (Europe/London)"
+    ],
+    "recruiters": [
+      "Be-IT Resourcing",
+      "Cathcart Associates",
+      "Denholm Associates",
+      "Reed",
+      "Hays",
+      "Evenbreak + Disability Confident employers"
+    ],
+    "boards": [
+      "Totaljobs",
+      "Indeed",
+      "CWJobs",
+      "IT Jobs Watch (Scotland helpdesk)",
+      "MSP / council / NHS / university career pages"
+    ]
+  },
+  "applications": [
+    {
+      "id": "placeholder-1",
+      "company": "Example MSP Glasgow",
+      "title": "1st Line IT Support",
+      "location": "Glasgow hybrid",
+      "status": "Draft",
+      "url": "",
+      "notes": "PLACEHOLDER \u2014 replace with real JobSync row. Prefer A+ / Windows / customer service ads.",
+      "placeholder": true,
+      "nextAction": "Wait for help-desk CV PDF approval"
+    },
+    {
+      "id": "placeholder-2",
+      "company": "Example Council Service Desk",
+      "title": "IT Help Desk Analyst",
+      "location": "Central Scotland",
+      "status": "Ready",
+      "url": "",
+      "notes": "PLACEHOLDER \u2014 Disability Confident flag when real. Do not auto-send.",
+      "placeholder": true,
+      "nextAction": "Tailor cover note from package 03"
+    }
+  ],
+  "dailyDigestSample": {
+    "date": "2026-09-29",
+    "newMatches": [],
+    "actionsDue": [
+      "Confirm Blind Guy end date",
+      "Approve help-desk CV PDF",
+      "Start personal LinkedIn from draft 35",
+      "Log first real applications in this board"
+    ],
+    "pipelineSnapshot": {
+      "applied": 0,
+      "interview": 0,
+      "offer": 0,
+      "rejected": 0,
+      "ghostingOver14d": 0
+    },
+    "blockers": [
+      "Blind Guy end date still [UNVERIFIED]",
+      "No employer-ready help-desk PDF",
+      "Personal job LinkedIn missing",
+      "Gmail applications folder not triaged"
+    ],
+    "voiceSentence": "Zero live applications logged; unlock Blind Guy date + help-desk PDF, then send three today."
+  },
+  "jobSync": {
+    "status": "linked-not-live",
+    "label": "JobSync tracker (GitHub)",
+    "url": "https://github.com/ComicCoder23/jobsync-tracker",
+    "note": "Read-only for agents. Patterns may study Gsync/jobsync MIT locally. No live sync API wired into this dashboard yet.",
+    "liveApi": false
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "disclaimer": "Research aid only — not formal benefits, tax, or legal advice. Confirm with DWP, Social Security Scotland, CAB, Jobcentre Disability Employment Adviser, or accountant before acting.",
+  "profile": {
+    "age": 44,
+    "adp": true,
+    "ucLcw": true,
+    "goals": [
+      "Job ASAP",
+      "Recurring income from builds (tracked carefully)"
+    ]
+  },
+  "ucGuardrail": {
+    "label": "UC LCW work allowance",
+    "approxAlanFigure": 500,
+    "cpag2026_27": {
+      "withHousingElement": 427,
+      "withoutHousingElement": 710,
+      "taperAbove": "≈55% of extra earned income"
+    },
+    "notes": [
+      "Work allowance is not a hard earnings cap",
+      "LCW / LCWRA generally exempt from Minimum Income Floor when gainfully self-employed — confirm with work coach",
+      "Self-employed must report income/expenses each UC assessment period",
+      "ADP is separate from UC — check each award's treatment",
+      "No auto income claims from this dashboard"
+    ],
+    "trackedEarningsThisPeriod": 0,
+    "currency": "GBP"
+  },
+  "routes": [
+    {
+      "name": "Access to Work",
+      "priority": "Priority",
+      "why": "Self-employed eligible; equipment, software, travel, support workers",
+      "caveat": "Apply via GOV.UK; not for voluntary-only work",
+      "url": "https://www.gov.uk/access-to-work"
+    },
+    {
+      "name": "Business Gateway East Dunbartonshire + £500 Start-Up Grant",
+      "priority": "Priority",
+      "why": "Local (Kirkintilloch / ED); free adviser path",
+      "caveat": "Retrospective on evidence; trading from ED address criteria",
+      "url": "https://www.eastdunbarton.gov.uk/business/business-gateway"
+    },
+    {
+      "name": "Flexible Support Fund",
+      "priority": "Priority",
+      "why": "Via Work Coach — course/exam fees often cited",
+      "caveat": "Discretionary",
+      "url": "https://www.gov.uk/universal-credit"
+    },
+    {
+      "name": "Individual Training Accounts (Scotland)",
+      "priority": "Priority",
+      "why": "Up to £200/year toward approved courses",
+      "caveat": "Course must be on approved list; confirm SDS live status",
+      "url": "https://www.myworldofwork.co.uk/"
+    },
+    {
+      "name": "Just Enterprise",
+      "priority": "Strong if social-enterprise",
+      "why": "Free Scotland social-enterprise support",
+      "caveat": "Register → adviser",
+      "url": "https://www.justenterprise.org/"
+    },
+    {
+      "name": "Firstport Start It",
+      "priority": "Strong if social-enterprise",
+      "why": "Up to £5,000 start-up for social enterprises",
+      "caveat": "Best after Just Enterprise/Firstport advice",
+      "url": "https://www.firstport.org.uk/"
+    }
+  ],
+  "archiveLowFit": [
+    {
+      "name": "King's Trust Enterprise",
+      "status": "Age 18–30 — do not chase at 44"
+    },
+    {
+      "name": "Start Up Loans",
+      "status": "Loan not grant — not immediate need"
+    },
+    {
+      "name": "New Enterprise Allowance",
+      "status": "Closed to new applicants"
+    },
+    {
+      "name": "Fair Start Scotland",
+      "status": "Closed to new referrals (Mar 2024)"
+    }
+  ],
+  "bots": [
+    "Grant Router",
+    "Ledger Sentinel",
+    "Watt Watcher"
+  ],
+  "extraLinks": [
+    {
+      "name": "Turn2us Grants Search",
+      "url": "https://grants-search.turn2us.org.uk/"
+    },
+    {
+      "name": "Citizens Advice",
+      "url": "https://www.citizensadvice.org.uk/"
+    },
+    {
+      "name": "Business Gateway national",
+      "url": "https://www.bgateway.com/"
+    }
+  ],
+  "panelTitle": "Funding, Partnerships & Money",
+  "grantRouter": {
+    "geekyName": "Grant Router",
+    "roleLabel": "Funding + Partnerships",
+    "scope": "Scottish funding routes plus partnerships and collabs that could bring recurring income or support to Alan's builds, always filtered by UC LCW ~£500 and recovery constraints.",
+    "buildsInScope": [
+      "SCAM",
+      "Who's Funny Anyway",
+      "ComicCoder23",
+      "Alan Gray Builds",
+      "Tech Tradie Media (contained)",
+      "Alan App Labs",
+      "Stage Manager (contained / anonymous lane)"
+    ],
+    "partnerTypes": [
+      "Local businesses",
+      "Creators / educators",
+      "Communities & Discord/meetup hosts",
+      "Recovery organisations (internal networking — careful)",
+      "Tech companies / tool sponsors",
+      "Comedy / improv venues (WFA / Stage Manager contained)"
+    ],
+    "workflow": [
+      "Track potential partners (name, lane, fit, status)",
+      "Draft outreach — never send unless Alan asks",
+      "Flag UC/recovery risk before any income-bearing collab",
+      "Hand money tracking to Ledger Sentinel; soft-pause to Watt Watcher"
+    ]
+  },
+  "partnershipPipeline": [
+    {
+      "name": "Placeholder — first partner scan",
+      "type": "To research",
+      "lane": "Any build",
+      "status": "Empty — Grant Router to populate",
+      "ucFit": "Must stay under UC LCW ~£500 awareness",
+      "note": "No invented partners. Fill from real research only."
+    }
+  ],
+  "certificateReplacement": {
+    "item": "Certificate replacement",
+    "costGbp": 40,
+    "orderOn": "14th (Alan-stated — confirm which month)",
+    "status": "Planned spend",
+    "note": "Alan: £40 certificate replacement — order on the 14th. Track against UC LCW ~£500 with Ledger Sentinel.",
+    "panel": "Funding"
+  }
+}

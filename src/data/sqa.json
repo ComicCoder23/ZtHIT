@@ -1,0 +1,54 @@
+{
+  "title": "SQA dual accounts",
+  "educationSafeLine": "Computing Certificate (G5VS 15, SCQF Level 7, certificated Mar 2004) + units from SCN 015950951. Do not claim HND awarded. Prefer Technical Support pathway \u2014 incomplete. Cite HNC only if confirmed by Alan or second SCN.",
+  "accounts": [
+    {
+      "scn": "015950951",
+      "status": "captured",
+      "portalUser": "alanjohn38",
+      "registeredAddressNote": "41 Abbeygreen (per older SQA email)",
+      "summary": "MyResults captured 29 Sep 2026. Computing Certificate + SCQF 7/8 units. No HNC/HND titles on that page.",
+      "packageFile": "32-SQA-RESULTS-015950951.md",
+      "highlights": [
+        "Computing (G5VS 15) Certificate, SCQF Level 7 \u2014 Mar 2004",
+        "Units: OS, Architecture, Multi User OS, IT Applications, Information Systems, Internet Client Services, Software Development Program Planning, Systems Development Intro, Event Driven Programming (SCQF 8)",
+        "Core Skills at Higher"
+      ]
+    },
+    {
+      "scn": "952350005",
+      "status": "outstanding",
+      "registeredAddressNote": "15 Crossview Place (per older SQA email)",
+      "summary": "MyResults still outstanding. May hold HNC/HND-related titles \u2014 do not invent until retrieved.",
+      "packageFile": "31-SQA-DUAL-ACCOUNTS.md",
+      "highlights": []
+    }
+  ],
+  "mergeStatus": {
+    "status": "Alan reports merge email already sent",
+    "emailDeferred": false,
+    "alanReportedSent": true,
+    "note": "Alan voice 29 Sep 2026: merge email already sent. Agents must NOT re-send or draft further merge mail unless Alan asks. Still need SCN 952350005 export + confirm SQA actioned merge.",
+    "source": "Alan voice 29 Sep 2026 meta-goal",
+    "actionForAgents": "Do not re-send. Do not draft further merge mail unless Alan asks.",
+    "stillOpen": [
+      "Retrieve full module list for SCN 952350005",
+      "Confirm SQA actioned merge"
+    ]
+  },
+  "nextSteps": [
+    "Retrieve full MyResults for SCN 952350005",
+    "Align package wording: Technical Support incomplete (not HND Software Development)",
+    "Confirm SQA actioned Alan-reported merge (agents: do not re-send mail)"
+  ],
+  "portalLinks": [
+    {
+      "label": "My Qualifications / MyResults",
+      "url": "https://my.qualifications.gov.scot/"
+    },
+    {
+      "label": "SQA candidate services",
+      "url": "https://www.sqa.org.uk/sqa/41292.html"
+    }
+  ]
+}
