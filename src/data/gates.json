@@ -1,22 +1,22 @@
-﻿{
+{
   "title": "Your turn",
-  "how": "This screen does not take taps. Answers go in the New Bot chat.",
+  "how": "This screen does not take taps. Answers go in chat with Alan / fHtZ / OB-GROK.",
   "updated": "2026-10-04",
   "items": [
     {
       "n": 1,
-      "label": "Help-desk CV PDF",
-      "detail": "Ready to read. Say keep Tech Tradie Media on it, or take it off."
+      "label": "Say the three practice lines out loud",
+      "detail": "Watt Watcher first stop. Mark any line that does not sound like you. Jobs wait until after this."
     },
     {
       "n": 2,
-      "label": "Certificate replacement",
-      "detail": "Waiting on your payment on 14 October. £40. No bot buys it."
+      "label": "Approve help-desk CV text",
+      "detail": "Master is MASTER-MORNING-2026-10-05.md section 1. Tier A only. Then Portfolio Forge makes the PDF."
     },
     {
       "n": 3,
-      "label": "Job screen",
-      "detail": "Next build, after you answer the CV. One screen with the exact title, the description, the source link, and the best fields."
+      "label": "LinkedIn create or skip",
+      "detail": "Draft ready for approval. Personal profile only — keep TTM LinkedIn separate."
     }
   ]
 }

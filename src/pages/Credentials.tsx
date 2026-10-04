@@ -1,6 +1,5 @@
 import sqa from '../data/sqa.json'
 import linkedin from '../data/linkedin.json'
-import profile from '../data/profile.json'
 import links from '../data/links.json'
 import copyBlocks from '../data/copyBlocks.json'
 import { Panel } from '../components/Panel'
@@ -30,7 +29,7 @@ export function Credentials() {
           {sqa.accounts.map((a) => (
             <div key={a.scn} className="mini-card">
               <div className="priority-row">
-                <strong>SCN {a.scn}</strong>
+                <strong>SQA account on file</strong>
                 <StatusChip status={a.status} />
               </div>
               <p className="small">{a.summary}</p>
@@ -80,8 +79,7 @@ export function Credentials() {
           ))}
         </div>
         <p className="tiny">
-          Portal username: <code>{profile.sqa.portalUsername}</code> · SCNs:{' '}
-          {profile.sqa.scnCaptured} + {profile.sqa.scnOutstanding}
+          SQA portal credentials stay private — not shown on this public page.
         </p>
       </div>
 
