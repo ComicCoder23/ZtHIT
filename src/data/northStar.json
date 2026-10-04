@@ -13,10 +13,10 @@
   "prioritiesP0": [
     {
       "id": "p0-blind-guy",
-      "label": "Confirm Blind Guy Ltd end date",
-      "why": "Unlocks CV + LinkedIn Experience",
+      "label": "Blind Guy Ltd end date",
+      "why": "Confirmed Apr 2021 to May 2025",
       "owner": "Alan",
-      "status": "needs-alan"
+      "status": "done"
     },
     {
       "id": "p0-cv-pdf",

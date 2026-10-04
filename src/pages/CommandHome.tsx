@@ -12,6 +12,7 @@ import learning from '../data/learning.json'
 import sqa from '../data/sqa.json'
 import linkedin from '../data/linkedin.json'
 import funding from '../data/funding.json'
+import gates from '../data/gates.json'
 
 export function CommandHome() {
   const chips =
@@ -21,9 +22,21 @@ export function CommandHome() {
 
   return (
     <Panel
-      title="Command Home"
-      subtitle="Showcase · North Star · status chips · today’s P0s · UC guardrail"
+      title="Your turn"
+      subtitle="One list. This screen does not take taps."
     >
+      <div className="card">
+        <h3>{gates.title}</h3>
+        <p className="muted small">{gates.how}</p>
+        <ol className="priority-list">
+          {gates.items.map((g) => (
+            <li key={g.n}>
+              <strong>{g.n}. {g.label}</strong>
+              <p className="muted small">{g.detail}</p>
+            </li>
+          ))}
+        </ol>
+      </div>
       <div className="hero">
         <p className="hero-kicker">Career showcase · Glasgow / Kirkintilloch</p>
         <h2>{profile.fullName}</h2>

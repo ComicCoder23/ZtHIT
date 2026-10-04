@@ -1,0 +1,22 @@
+{
+  "title": "Your turn",
+  "how": "This screen does not take taps. In the New Bot chat, say the number and yes or no.",
+  "updated": "2026-10-04",
+  "items": [
+    {
+      "n": 1,
+      "label": "Help-desk CV PDF",
+      "detail": "Say yes to make one, or no to leave it. Blind Guy dates are already in: Apr 2021 to May 2025."
+    },
+    {
+      "n": 2,
+      "label": "Certificate replacement",
+      "detail": "You order it. £40 on 14 October. No bot buys it."
+    },
+    {
+      "n": 3,
+      "label": "Applications",
+      "detail": "Nothing is sent until you say send. This stays closed until the CV PDF is done."
+    }
+  ]
+}
