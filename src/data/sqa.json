@@ -1,14 +1,14 @@
 {
   "title": "SQA dual accounts",
-  "educationSafeLine": "Computing Certificate (G5VS 15, SCQF Level 7, certificated Mar 2004) + units from SCN [private]. Do not claim HND awarded. Prefer Technical Support pathway \u2014 incomplete. Cite HNC only if confirmed by Alan or second SCN.",
+  "educationSafeLine": "Computing foundation on file (certificate + units). Prefer Technical Support pathway wording where incomplete. Cite HNC Computing (completed 2003) as Alan locked for job face.",
   "accounts": [
     {
-      "scn": "on-file-8031",
+      "scn": "on-file",
       "status": "captured",
       "portalUser": "alanjohn38",
       "registeredAddressNote": "41 Abbeygreen (per older SQA email)",
       "summary": "MyResults captured 29 Sep 2026. Computing Certificate + SCQF 7/8 units. No HNC/HND titles on that page.",
-      "packageFile": "32-SQA-RESULTS-015950951.md",
+      "packageFile": "SQA-RESULTS-on-file.md",
       "highlights": [
         "Computing (G5VS 15) Certificate, SCQF Level 7 \u2014 Mar 2004",
         "Units: OS, Architecture, Multi User OS, IT Applications, Information Systems, Internet Client Services, Software Development Program Planning, Systems Development Intro, Event Driven Programming (SCQF 8)",
@@ -17,11 +17,11 @@
       "scnLabel": "on file"
     },
     {
-      "scn": "on-file-8314",
+      "scn": "on-file",
       "status": "outstanding",
       "registeredAddressNote": "15 Crossview Place (per older SQA email)",
       "summary": "MyResults still outstanding. May hold HNC/HND-related titles \u2014 do not invent until retrieved.",
-      "packageFile": "31-SQA-DUAL-ACCOUNTS.md",
+      "packageFile": "SQA-RESULTS-on-file.md",
       "highlights": [],
       "scnLabel": "on file"
     }
@@ -30,17 +30,17 @@
     "status": "Alan reports merge email already sent",
     "emailDeferred": false,
     "alanReportedSent": true,
-    "note": "Alan voice 29 Sep 2026: merge email already sent. Agents must NOT re-send or draft further merge mail unless Alan asks. Still need SCN 952350005 export + confirm SQA actioned merge.",
+    "note": "Alan voice: merge email already sent. Agents must NOT re-send. Second account export still private \u2014 not printed on public pages.",
     "source": "Alan voice 29 Sep 2026 meta-goal",
     "actionForAgents": "Do not re-send. Do not draft further merge mail unless Alan asks.",
     "stillOpen": [
-      "Retrieve full module list for SCN 952350005",
+      "Retrieve full module list for second SQA account (private)",
       "Confirm SQA actioned merge"
     ]
   },
   "nextSteps": [
-    "Retrieve full MyResults for SCN 952350005",
-    "Align package wording: Technical Support incomplete (not HND Software Development)",
+    "Retrieve full MyResults for second SQA account (private)",
+    "Align package wording: Technical Support incomplete where needed",
     "Confirm SQA actioned Alan-reported merge (agents: do not re-send mail)"
   ],
   "portalLinks": [

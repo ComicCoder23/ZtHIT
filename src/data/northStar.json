@@ -41,9 +41,9 @@
     }
   ],
   "ucMeter": {
-    "label": "UC LCW work allowance",
+    "label": "Work allowance",
     "approxMonthly": 500,
-    "note": "Maps to UC work allowance with LCW (~\u00a3427/mo with housing element, ~\u00a3710 without). Above that, UC typically tapers ~55%. Not a hard earnings cap.",
+    "note": "Maps to benefits work allowance (~\u00a3427/mo with housing element, ~\u00a3710 without). Above that, support typically tapers ~55%. Not a hard earnings cap.",
     "currentTrackedEarnings": 0,
     "currency": "GBP",
     "guards": [
@@ -58,7 +58,7 @@
       "id": "sqa",
       "label": "SQA merge",
       "status": "Alan-reported sent",
-      "detail": "Merge email Alan says sent \u2014 do not re-send. SCN 952350005 still outstanding."
+      "detail": "Merge email Alan says sent \u2014 do not re-send. second SQA account still outstanding."
     },
     {
       "id": "personal-li",

@@ -18,7 +18,7 @@ export function UcMeter({
   return (
     <div className="uc-meter">
       <div className="uc-meter-top">
-        <strong>UC LCW work allowance</strong>
+        <strong>Work allowance work allowance</strong>
         <span>
           £{currentTrackedEarnings} / ~£{approxMonthly}
         </span>

@@ -13,7 +13,7 @@
   },
   "linkedinExperience": {
     "label": "LinkedIn experience bullets (personal)",
-    "text": "Independent technical projects — ComicCoder23 (2025 – Present · Glasgow area)\n- Built and documented Windows field-support materials (Mum PC Helper: safer home-PC checks, clear user guidance).\n- Small public web tools and local apps as learning proof (e.g. Look Up, Memory City, KCH Radar) — honest junior builder, not senior engineer.\n\nEnergy Consultant — Utility Aid (Jun 2025 – Apr 2026 · Glasgow)\n- Outbound and inbound residential / small-business energy sales; Salesforce pipeline; targets and objection handling.\n\nSales Consultant — The Blind Guy Ltd (Apr 2021 – [confirm end date] · Glasgow)\n- Inbound/outbound calls, surveyor diary coordination, order processing, supplier liaison, admin.\n\nEnergy Sales Adviser — Neptis UK (Mar 2019 – Apr 2020 · Glasgow)\n- Outbound residential energy sales; rapport, objections, closing to target.\n\nPersonal Carer — Private role (Mar 2010 – Feb 2019)\n- Full-time care support: routines, appointments, finances liaison, day-to-day wellbeing. (No medical or family detail.)\n\nOutbound Sales Executive — 1 Call Direct (Oct 2001 – Feb 2010 · Glasgow)\n- Outbound campaigns (Scottish Power, Pipex, TalkTalk); strong performance on multiple campaigns.\n\nCustomer Service Agent — HERO TSC / T-Mobile contract (Aug 2004 – Sep 2005 · Larbert)\n- Billing, upgrades, technical queries; identified sales opportunities.\n\n(Do not add Tech Tradie Media / founder role on this profile.)"
+    "text": "Independent technical projects — ComicCoder23 (2025 – Present · Glasgow area)\n- Built and documented Windows field-support materials (Mum PC Helper: safer home-PC checks, clear user guidance).\n- Small public web tools and local apps as learning proof (e.g. Look Up, practice tools) — honest junior builder, not senior engineer.\n\nEnergy Consultant — Utility Aid (Jun 2025 – Apr 2026 · Glasgow)\n- Outbound and inbound residential / small-business energy sales; Salesforce pipeline; targets and objection handling.\n\nSales Consultant — The Blind Guy Ltd (Apr 2021 – [confirm end date] · Glasgow)\n- Inbound/outbound calls, surveyor diary coordination, order processing, supplier liaison, admin.\n\nEnergy Sales Adviser — Neptis UK (Mar 2019 – Apr 2020 · Glasgow)\n- Outbound residential energy sales; rapport, objections, closing to target.\n\nPersonal Carer — Private role (Mar 2010 – Feb 2019)\n- Full-time care support: routines, appointments, finances liaison, day-to-day wellbeing. (No medical or family detail.)\n\nOutbound Sales Executive — 1 Call Direct (Oct 2001 – Feb 2010 · Glasgow)\n- Outbound campaigns (Scottish Power, Pipex, TalkTalk); strong performance on multiple campaigns.\n\nCustomer Service Agent — HERO TSC / T-Mobile contract (Aug 2004 – Sep 2005 · Larbert)\n- Billing, upgrades, technical queries; identified sales opportunities.\n\n(Do not add Contained brand / founder role on this profile.)"
   },
   "atsKeywords": {
     "label": "ATS keyword pack (use honestly)",
@@ -25,7 +25,7 @@
   },
   "educationSafeLine": {
     "label": "Education safe line (audit 34)",
-    "text": "Computing Certificate / NC Computing & IT / HNC Computing (completed, older) + HND Technical Support pathway incomplete — if HNC confirmed by Alan or second SCN; otherwise lead with Computing Certificate (G5VS 15, SCQF Level 7, Mar 2004) + units from SCN 015950951 + completed NC. Do not claim HND awarded. Do not claim HND Software Development."
+    "text": "Computing Certificate / NC Computing & IT / HNC Computing (completed, older) + HND Technical Support pathway incomplete — if HNC confirmed by Alan or second SCN; otherwise lead with Computing Certificate (G5VS 15, SCQF Level 7, Mar 2004) + units from SQA account on file + completed NC. Do not claim HND awarded. Do not claim HND Software Development."
   },
   "jobDigestTemplate": {
     "label": "Daily job digest blank (from 07)",
@@ -41,6 +41,6 @@
   },
   "applyKitFields": {
     "label": "Apply Kit — field dump (copy all)",
-    "text": "Full name: Alan Gray\nEmail: alanjohn3182@gmail.com\nPhone: [add when applying]\nAddress: 2 Drummond Street\nLocation: Glasgow / Kirkintilloch, Scotland\nLinkedIn: [personal account not created yet — draft ready]\nGitHub: https://github.com/ComicCoder23\nRight to work: UK — eligible to work in the United Kingdom\nAvailability: Immediate / notice to be confirmed\nSCN (captured): 015950951\nSCN (outstanding): 952350005\nMy Quals username: alanjohn38"
+    "text": "Full name: Alan Gray\nEmail: alanjohn3182@gmail.com\nPhone: [add when applying]\nAddress: 2 Drummond Street\nLocation: Glasgow / Kirkintilloch, Scotland\nLinkedIn: [personal account not created yet — draft ready]\nGitHub: https://github.com/ComicCoder23\nRight to work: UK — eligible to work in the United Kingdom\nAvailability: Immediate / notice to be confirmed\nSQA account: on file\nSQA second account: private\nMy Quals username: alanjohn38"
   }
 }

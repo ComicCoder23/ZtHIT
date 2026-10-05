@@ -16,7 +16,7 @@ export function Funding() {
   return (
     <Panel
       title="Funding, Partnerships & Money"
-      subtitle="Scotland routes · collabs · cert order · UC guardrail · no auto income claims"
+      subtitle="Scotland routes · collabs · cert order · earnings guardrail · no auto income claims"
     >
       <div className="liquid-divider" />
       <p className="callout">{funding.disclaimer}</p>
@@ -82,7 +82,7 @@ export function Funding() {
         <h3>Partnership / collab pipeline</h3>
         <p className="muted small">
           Tracked by Grant Router. Draft outreach only — never send unless Alan
-          asks. Filter every income-bearing idea through UC LCW ~£500 + Watt
+          asks. Filter every income-bearing idea through the work-allowance ~£500 + Watt
           Watcher.
         </p>
         <div className="grid-2">
