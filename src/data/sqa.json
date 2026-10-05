@@ -1,9 +1,9 @@
 {
   "title": "SQA dual accounts",
-  "educationSafeLine": "Computing Certificate (G5VS 15, SCQF Level 7, certificated Mar 2004) + units from SCN 015950951. Do not claim HND awarded. Prefer Technical Support pathway \u2014 incomplete. Cite HNC only if confirmed by Alan or second SCN.",
+  "educationSafeLine": "Computing Certificate (G5VS 15, SCQF Level 7, certificated Mar 2004) + units from SCN [private]. Do not claim HND awarded. Prefer Technical Support pathway \u2014 incomplete. Cite HNC only if confirmed by Alan or second SCN.",
   "accounts": [
     {
-      "scn": "015950951",
+      "scn": "on-file-8031",
       "status": "captured",
       "portalUser": "alanjohn38",
       "registeredAddressNote": "41 Abbeygreen (per older SQA email)",
@@ -13,15 +13,17 @@
         "Computing (G5VS 15) Certificate, SCQF Level 7 \u2014 Mar 2004",
         "Units: OS, Architecture, Multi User OS, IT Applications, Information Systems, Internet Client Services, Software Development Program Planning, Systems Development Intro, Event Driven Programming (SCQF 8)",
         "Core Skills at Higher"
-      ]
+      ],
+      "scnLabel": "on file"
     },
     {
-      "scn": "952350005",
+      "scn": "on-file-8314",
       "status": "outstanding",
       "registeredAddressNote": "15 Crossview Place (per older SQA email)",
       "summary": "MyResults still outstanding. May hold HNC/HND-related titles \u2014 do not invent until retrieved.",
       "packageFile": "31-SQA-DUAL-ACCOUNTS.md",
-      "highlights": []
+      "highlights": [],
+      "scnLabel": "on file"
     }
   ],
   "mergeStatus": {

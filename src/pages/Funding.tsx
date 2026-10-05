@@ -2,7 +2,6 @@ import funding from '../data/funding.json'
 import links from '../data/links.json'
 import { Panel } from '../components/Panel'
 import { ExtLink } from '../components/ExtLink'
-import { UcMeter } from '../components/UcMeter'
 import { StatusChip } from '../components/StatusChip'
 
 export function Funding() {
@@ -58,23 +57,6 @@ export function Funding() {
           </ul>
         </div>
       ) : null}
-
-      <div className="card">
-        <h3>UC work-allowance guardrail</h3>
-        <UcMeter
-          approxMonthly={funding.ucGuardrail.approxAlanFigure}
-          currentTrackedEarnings={
-            funding.ucGuardrail.trackedEarningsThisPeriod
-          }
-          note={`CPAG 2026/27: ~£${funding.ucGuardrail.cpag2026_27.withHousingElement} with housing element · ~£${funding.ucGuardrail.cpag2026_27.withoutHousingElement} without · taper ${funding.ucGuardrail.cpag2026_27.taperAbove}`}
-          disclaimer={funding.disclaimer}
-        />
-        <ul>
-          {funding.ucGuardrail.notes.map((n) => (
-            <li key={n}>{n}</li>
-          ))}
-        </ul>
-      </div>
 
       <div className="card">
         <h3>Funding tracks</h3>
