@@ -17,8 +17,8 @@ export function ApplyKit() {
     ['GitHub', profile.githubUrl],
     ['Right to work', profile.rightToWork],
     ['Availability', profile.availability],
-    ['SCN captured', profile.sqa.scnCaptured],
-    ['SCN outstanding', profile.sqa.scnOutstanding],
+    ['SQA account captured', profile.sqa.scnCaptured],
+    ['SQA account outstanding', profile.sqa.scnOutstanding],
     ['My Quals username', profile.sqa.portalUsername],
   ]
 

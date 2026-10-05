@@ -95,10 +95,10 @@
       "focus": "Soft-pause when stack exceeds health or earnings-risk flags",
       "adjacentFields": [
         "Energy budgeting / ADHD stack load",
-        "UC journal logging reminders (internal)",
+        "benefits journal logging reminders (internal)",
         "Benefits advice monitoring pointers (CAB / Work Coach — not legal advice)",
         "Appointment reminders (Jobcentre, health, college)",
-        "Soft-pause handoff when UC or health flags fire",
+        "Soft-pause handoff when benefits or health flags fire",
         "Recovery framing stays OFF employer CV / personal LinkedIn unless Alan asks"
       ]
     },
@@ -114,7 +114,7 @@
         "Partnerships & collabs with businesses, creators, communities, recovery orgs, tech companies",
         "Partner CRM-lite: track prospects, fit, status",
         "Outreach drafts for collabs (never send unless Alan asks)",
-        "Flag opportunities that fit UC LCW ~£500/month + recovery constraints",
+        "Flag opportunities that fit Work allowance ~£500/month + recovery constraints",
         "Build lanes in scope: SCAM, WFA, ComicCoder23, Alan Gray Builds, TTM, Alan App Labs, Stage Manager (contained)"
       ]
     },
@@ -122,15 +122,15 @@
       "geekyName": "Ledger Sentinel",
       "roleLabel": "Financial Manager",
       "id": "a75b9a0c-c592-4299-a386-d65a5fc0a1c4",
-      "oneLiner": "Tracks the UC work-allowance line and every build pound",
+      "oneLiner": "Tracks the benefits work-allowance line and every build pound",
       "status": "Ready",
       "focus": "Flag approach/cross of work-allowance; hand soft-pause to Watt Watcher",
       "adjacentFields": [
-        "UC LCW ~£500 work-allowance meter",
+        "Work allowance ~£500 work-allowance meter",
         "Invoice tracking for freelance / build income",
         "Tax / Self Assessment reminders (not advice)",
         "Expense logging for builds",
-        "Recurring income forecasting under UC constraints",
+        "Recurring income forecasting under benefits constraints",
         "Hand soft-pause to Watt Watcher near the line"
       ]
     }
@@ -141,7 +141,7 @@
     "No outward send/apply/post unless Alan explicitly asks",
     "ComicCoder23 GitHub is read-only",
     "TTM stays showcase-contained — no bleed into job materials",
-    "Partnerships/collabs must respect UC LCW ~£500 and recovery soft-pause",
+    "Partnerships/collabs must respect Work allowance ~£500 and recovery soft-pause",
     "People-following / recovery-builder lanes stay internal unless Alan asks otherwise"
   ],
   "note": "Alan voice listed 'Community/People Following' as a lane — mapped into Mesh Ranger adjacent fields (no 9th bot)."

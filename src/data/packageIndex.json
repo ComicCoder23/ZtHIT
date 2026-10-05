@@ -108,7 +108,7 @@
     {
       "id": "20",
       "file": "20-FUNDING-TRACK.md",
-      "purpose": "Scotland funding + UC/ADP interaction"
+      "purpose": "Scotland funding + benefits interaction"
     },
     {
       "id": "21",
@@ -167,8 +167,8 @@
     },
     {
       "id": "32",
-      "file": "32-SQA-RESULTS-015950951.md",
-      "purpose": "MyResults capture SCN 015950951"
+      "file": "SQA-RESULTS-on-file.md",
+      "purpose": "MyResults capture SQA account on file"
     },
     {
       "id": "33",

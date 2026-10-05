@@ -10,7 +10,7 @@
     ]
   },
   "ucGuardrail": {
-    "label": "UC LCW work allowance",
+    "label": "support LCW work allowance",
     "approxAlanFigure": 500,
     "cpag2026_27": {
       "withHousingElement": 427,
@@ -20,8 +20,8 @@
     "notes": [
       "Work allowance is not a hard earnings cap",
       "LCW / LCWRA generally exempt from Minimum Income Floor when gainfully self-employed — confirm with work coach",
-      "Self-employed must report income/expenses each UC assessment period",
-      "ADP is separate from UC — check each award's treatment",
+      "Self-employed must report income/expenses each support assessment period",
+      "ADP is separate from support — check each award's treatment",
       "No auto income claims from this dashboard"
     ],
     "trackedEarningsThisPeriod": 0,
@@ -112,13 +112,13 @@
   "grantRouter": {
     "geekyName": "Grant Router",
     "roleLabel": "Funding + Partnerships",
-    "scope": "Scottish funding routes plus partnerships and collabs that could bring recurring income or support to Alan's builds, always filtered by UC LCW ~£500 and recovery constraints.",
+    "scope": "Scottish funding routes plus partnerships and collabs that could bring recurring income or support to Alan's builds, always filtered by support LCW ~£500 and recovery constraints.",
     "buildsInScope": [
       "SCAM",
       "Who's Funny Anyway",
       "ComicCoder23",
       "Alan Gray Builds",
-      "Tech Tradie Media (contained)",
+      "Contained brand (contained)",
       "Alan App Labs",
       "Stage Manager (contained / anonymous lane)"
     ],
@@ -133,7 +133,7 @@
     "workflow": [
       "Track potential partners (name, lane, fit, status)",
       "Draft outreach — never send unless Alan asks",
-      "Flag UC/recovery risk before any income-bearing collab",
+      "Flag benefits/recovery risk before any income-bearing collab",
       "Hand money tracking to Ledger Sentinel; soft-pause to Watt Watcher"
     ]
   },
@@ -143,7 +143,7 @@
       "type": "To research",
       "lane": "Any build",
       "status": "Empty — Grant Router to populate",
-      "ucFit": "Must stay under UC LCW ~£500 awareness",
+      "ucFit": "Must stay under support LCW ~£500 awareness",
       "note": "No invented partners. Fill from real research only."
     }
   ],
@@ -152,7 +152,7 @@
     "costGbp": 40,
     "orderOn": "14th (Alan-stated — confirm which month)",
     "status": "Planned spend",
-    "note": "Alan: £40 certificate replacement — order on the 14th. Track against UC LCW ~£500 with Ledger Sentinel.",
+    "note": "Alan: £40 certificate replacement — order on the 14th. Track against support LCW ~£500 with Ledger Sentinel.",
     "panel": "Funding"
   }
 }
